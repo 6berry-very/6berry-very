@@ -45,10 +45,10 @@
 ---
 
 ## 👥 팀원 (Collaborator)
-- 기획자: [이은선](eunsun1114@gmail.com)
-- UX/UI 디자이너: [유진선](yooto00400@gmail.com), [전승아](lavumeplz@naver.com)
-- 프론트엔드 개발자: [이예서](rosefor2ne@gmail.com)
-- 백엔드 개발자: [신서영](irajane0321@gmail.com), [유광중](isac7722@gmailcom)
+- 기획자: [이은선](mailto:eunsun1114@gmail.com)
+- UX/UI 디자이너: [유진선](mailto:yooto00400@gmail.com), [전승아](mailto:lavumeplz@naver.com)
+- 프론트엔드 개발자: [이예서](mailto:rosefor2ne@gmail.com)
+- 백엔드 개발자: [신서영](mailto:irajane0321@gmail.com), [유광중](mailto:isac7722@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="width: 100%;max-width: 100%;" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" style="width: 100%;max-width: 100%;" />
